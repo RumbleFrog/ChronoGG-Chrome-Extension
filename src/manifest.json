@@ -1,0 +1,11 @@
+{
+    "name": "ChronoGG Helper",
+    "version": "0.0.1",
+    "permissions": [
+        "background",
+        "storage",
+        "alarms",
+        "notifications",
+        "https://*.chrono.gg/"
+    ]
+}
