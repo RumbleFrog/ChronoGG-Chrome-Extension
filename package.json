@@ -1,0 +1,14 @@
+{
+  "name": "ChronoGG-Chrome-Extension",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "repository": "git@github.com:RumbleFrog/ChronoGG-Chrome-Extension.git",
+  "author": "RumbleFrog <xxlosttechxx@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chrome": "^0.0.61",
+    "ts-loader": "^4.0.1",
+    "typescript": "^2.7.2",
+    "webpack": "^4.1.1"
+  }
+}
